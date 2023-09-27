@@ -27,7 +27,9 @@ https://github.com/sonali123123/English_to_Hinglish_translation_model.git
 Install Dependencies: 
 
 !pip install nltk
+
 !pip install googletrans==4.0.0-rc1
+
 Run the Code: Execute the code to translate English text into Hinglish. 
 
 ## Sample Output
