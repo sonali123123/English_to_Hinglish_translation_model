@@ -35,13 +35,20 @@ Run the Code: Execute the code to translate English text into Hinglish.
 ## Sample Output
 
 English sentence: I had about a 30 minute demo just using this new headset
+
 Hinglish Sentence: मेरे पास इस नए headset का उपयोग करके लगभग 30 minute का demo था
 
+
 English sentence: Definitely share your feedback in the comment section.
+
 Hinglish Sentence: निश्चित रूप से comment section में अपनी feedback साझा करें।
 
+
 English sentence:  So even if it's a big video, I will clearly mention all the products.
+
 Hinglish Sentence: तो भले ही यह एक बड़ा video है, मैं स्पष्ट रूप से सभी products का उल्लेख करूंगा।
 
+
 English sentence:  I was waiting for my bag.
+
 Hinglish Sentence: मैं अपने बैग का इंतजार कर रहा था।
