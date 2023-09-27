@@ -22,7 +22,7 @@ Replacement Logic: The project includes a function for replacing nouns in the Hi
 
 ## How to use Code
 Clone the Repository: Clone this repository to your local machine using the following command:
-
+https://github.com/sonali123123/English_to_Hinglish_translation_model.git
 
 Install Dependencies: 
 
